@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "obs": {
+      "command": "file path",
+      "args": ["file path"]
+    }
+  }
+}
